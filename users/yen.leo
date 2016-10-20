@@ -28,7 +28,6 @@
 <v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="amd.20161004083800.8"><vh>HTML 投影片 (標題)</vh></v>
 <v t="amd.20161004104820.1" a="E"><vh>三大主題教學</vh>
 <v t="amd.20161004104641.1" a="E"><vh>主題教學</vh>
 <v t="amd.20161004104641.2"><vh>機械設計主題教學</vh></v>
@@ -340,19 +339,6 @@ apply broader style changes, like switching the page background.
 &lt;/div&gt;
 
 </t>
-<t tx="amd.20161004083800.8">&lt;section&gt;
-    &lt;h1&gt;2016Fall CADPA 課程&lt;/h1&gt;
-    &lt;h3&gt;40423126 紀鈞瀚&lt;/h3&gt;
-    &lt;p&gt;
-    &lt;small&gt;
-    Created by &lt;a href="http://hakim.se"&gt;40423126&lt;/a&gt; / 
-    &lt;a href="http://twitter.com/hakimel"&gt;@gm.nfu.edu.tw&lt;/a&gt;
-    &lt;/small&gt;
-    &lt;/p&gt;
-    
-    &lt;a href="blog/index.html"&gt;blog&lt;/a&gt;
-&lt;/section&gt;
-</t>
 <t tx="amd.20161004085439.1">&lt;section&gt;
     &lt;h2&gt;Vertical Slides&lt;/h2&gt;
     &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
@@ -460,11 +446,10 @@ make.start()
 ### 40423126
 
 &lt;small&gt;
-Created by [40423126](http://hakim.se)
-[@gm.nfu.edu.tw](http://twitter.com/hakimel)
+Created by 紀鈞瀚[Blog](https://40423126.github.io/2016fallcadp_hw/blog/index.html)
 &lt;/small&gt;
 
-[blog](blog/index.html)
+
 </t>
 <t tx="amd.20161004100003.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
