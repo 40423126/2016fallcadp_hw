@@ -441,9 +441,9 @@ make.start()
 
 						
 </t>
-<t tx="amd.20161004095719.2"># 2016Fall CADPA 課程
+<t tx="amd.20161004095719.2"># 2016Fall 電腦輔助設計實習的課程
 
-### 40423126
+### 四設計二甲 40423126
 
 &lt;small&gt;
 Created by 紀鈞瀚[Blog](https://40423126.github.io/2016fallcadp_hw/blog/index.html)
