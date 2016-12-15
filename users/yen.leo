@@ -64,9 +64,6 @@
 <v t="leo.20161215161234.1" a="E"><vh>第十三周(12/08)</vh>
 <v t="leo.20161215161234.2"><vh>W13</vh></v>
 </v>
-<v t="leo.20161215161250.1" a="E"><vh>第十四周(12/15)</vh>
-<v t="leo.20161215161250.2"><vh>W14</vh></v>
-</v>
 </v>
 </v>
 </v>
@@ -503,20 +500,6 @@ DEFAULT_DATE = 'fs'</t>
     &lt;script type="text/template"&gt;
 @others 
 ###12/08(第十三周)
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-				</t>
-<t tx="leo.20161215161250.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="leo.20161215161250.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others 
-###12/15(第十四周)
 
     &lt;/script&gt;
 &lt;/section&gt;
