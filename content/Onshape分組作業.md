@@ -4,10 +4,11 @@ Category: Misc
 Tags: w13
 Author: 40423126紀鈞瀚
 
-<b><font color="pink">會在下周三如期出圖</font></b>
+<b><font color="pink">各組員影片已經拍出</font></b>
 
 <!-- PELICAN_END_SUMMARY -->
 #分組畫圖成果
+將各組員影片在組長這在做統整
 
 [40423126](https://40423126.github.io/2016fallcadp_hw/blog/index.html)
 畫圖成果
