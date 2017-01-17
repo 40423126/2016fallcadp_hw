@@ -4,13 +4,13 @@ Category: Misc
 Tags: w13
 Author: 40423126紀鈞瀚
 
-<b><font color="pink">各組員影片連接點在下文</font></b>
+<b><font color="blue">各組員影片連接點在下文</font></b>
 
 <!-- PELICAN_END_SUMMARY -->
 #分組畫圖成果
 將各組員影片在組長這在做統整
 
-[40423126](https://40423126.github.io/2016fallcadp_hw/blog/index.html)
+*[40423126](https://40423126.github.io/2016fallcadp_hw/blog/index.html)
 畫圖成果
 
 Homework week1
@@ -22,14 +22,28 @@ Homework week2
 <p><a href="https://vimeo.com/199645189">2017 01 16 19 13 54 584</a> from <a href="https://vimeo.com/user60322140">紀鈞瀚</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
-[40423135](https://40423135.github.io/2016fallcadp_hw/blog/index.html)
+*[40423135](https://40423135.github.io/2016fallcadp_hw/blog/index.html)
 畫圖成果
 
-[40423150](https://40423150.github.io/2016fallcadp_hw/blog/index.html)
+Homework week1
+<iframe src="https://player.vimeo.com/video/199667932" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/199667932">w15 hw-1</a> from <a href="https://vimeo.com/user61603798">陳冠錡</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+Homework week2
+<iframe src="https://player.vimeo.com/video/199667968" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/199667968">w15 hw-2</a> from <a href="https://vimeo.com/user61603798">陳冠錡</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+*[40423150](https://40423150.github.io/2016fallcadp_hw/blog/index.html)
 畫圖成果
 
-[40423154](https://40423154.github.io/2016fallcadp_hw/blog/index.html)
+solvespace hw
+<iframe src="https://player.vimeo.com/video/199534149" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/199534149">40423150</a> from <a href="https://vimeo.com/user44209237">40423150</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+*[40423154](https://40423154.github.io/2016fallcadp_hw/blog/index.html)
 畫圖成果
+
+
 
 
 
